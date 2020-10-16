@@ -3,7 +3,7 @@
 The module allows a simple import and use functionality to extract the fibong representation from any given text. 
 The sample syntax of using it as shown below.
 ```python
-import fibong_github as fb
+import fibong as fb
 text = '''
 A gnarble left his cozy bed along the ocean floor. He dreamt about a place that he had never seen before! He headed to the surface for a glimpse of sun and sky. A trip so long and perilous, he'd be the first to try!
 '''
